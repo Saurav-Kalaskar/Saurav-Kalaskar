@@ -9,12 +9,13 @@
 
 ### 👨‍💻 About Me
 
+
+- 💻 **Software Engineering Intern @ Rocket Mortgage** (Summer 2025)
 - 💼 Former Full Stack Engineer @ Accenture (2.5 YOE – ASP.NET Core, Angular, SQL, Azure)
 - 🧑‍🎓 Currently a Graduate Student at **Arizona State University** (GPA: 4.0)
-- 👨‍🚀 **Incoming Software Engineering Intern @ Rocket Mortgage** (Summer 2025)
 - ⚙️ Actively building projects in **Next.js**, **AWS**, and **AI/ML**
 - 🛠️ Solving real-world challenges using **Generative AI, Microservices, and DevOps pipelines**
-- 🧭 Passionate about **space technologies**, system design, and solving complex backend problems
+- 🧭 Passionate about scalable systems, system design, and solving complex backend problems
 
 ---
 
